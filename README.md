@@ -22,17 +22,13 @@
   ## [Installation](#table-of-contents)
 
   In order to install this application you must clone the repo or download the zip file.
-
-  ## [Usage](#table-of-contents)
   
   ## [License](#table-of-contents)
 
   The application is covered under the following license:
   
   [mit](https://choosealicense.com/licenses/mit)
-    
-  ## [Contributing](#table-of-contents)
-  
+      
   ## [Tests](#table-of-contents)
 
   1. Download or clone the repo from github 
